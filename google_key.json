@@ -1,0 +1,12 @@
+{"web":
+  {
+    "client_id":"770333169375-l02l0uh5eg9fgk19rpu795tmo6lqmiqm.apps.googleusercontent.com",
+    "project_id":"tidy-set-293203",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"3WnA26picR4rvivIPXWqZANB",
+    "redirect_uris":["http://localhost:5000/auth/google/callback"],
+    "javascript_origins":["http://localhost:5000"]
+  }
+}
